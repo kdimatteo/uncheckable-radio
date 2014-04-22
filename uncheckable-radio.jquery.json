@@ -1,0 +1,29 @@
+{
+  "name": "uncheckable-radio",
+  "version": "0.1.0",
+  "title": "Uncheckable Radio",
+  "description": "A jQuery plugin to uncheck radio buttons",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "radio",
+    "form"
+  ],
+  "homepage": "https://gist.github.com/eikes/9484101",
+  "author": {
+    "name": "Eike Send",
+    "url": "https://gist.github.com/eikes"
+  },
+  "bugs": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.91"
+  },
+  "docs": "",
+  "demo": ""
+}
