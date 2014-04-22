@@ -1,0 +1,21 @@
+{
+  "name": "uncheckable-radio",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kdimatteo/uncheckable-radio",
+  "description": "jQuery plugin to make radio buttons (and labels) un-checkable",
+  "main": "src/uncheckable-radio.js",
+  "keywords": [
+    "radio",
+    "form",
+    "jQuery",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
